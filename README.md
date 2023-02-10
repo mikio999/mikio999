@@ -1,6 +1,10 @@
-## Welcome, This is Mikio's GitHub 👋
+<div align="center"><h1> Welcome, This is Mikio's GitHub 👋 </h1>
 
-💻 지금 이 시간에도 어디선가 성장하고 있는 프런트엔드 주니어 개발자입니다.
+<center>💻 지금 이 시간에도 어디선가 성장하고 있는 프런트엔드 개발자입니다.<center>
+ 
+---
+
+![mikio999's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikio999&show_icons=true&theme=radical)
 
 📨 Email : ellen10min@gmail.com <br>
 ✅ Blog : https://velog.io/@mikio
@@ -15,5 +19,10 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ![image](https://user-images.githubusercontent.com/96870855/208595572-21cedabd-421b-4db1-965f-ef2173101145.png)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikio999&layout=compact&theme=blueberry&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+  </div>
