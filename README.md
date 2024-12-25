@@ -1,6 +1,5 @@
 <div align="center"><h1> Welcome, This is Mikio's GitHub 👋 </h1>
 
-<center>💻 프런트엔드 개발자입니다.<center>
  
 ---
 
